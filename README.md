@@ -5,5 +5,5 @@
 - 
 - Technologies used: React Js
 - 
-- Instructions for running the project locally: localhost:3000
+- Instructions for running the project locally: to run this project we have to use localhost:3000
 
