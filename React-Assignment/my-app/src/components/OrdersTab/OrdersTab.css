@@ -1,0 +1,16 @@
+.orders-tab {
+    margin-bottom: 20px;
+  }
+  
+  .orders-tab button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .orders-tab button.active {
+    background-color: #333;
+    color: #fff;
+  }
